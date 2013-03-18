@@ -96,7 +96,7 @@ To run Mesos on more than one machine, you have multiple options:
     * [EC2 scripts](EC2-Scripts.textile) for launching a Mesos cluster on Amazon EC2.
     * [Logging and Debugging](Logging-and-Debugging.textile) -- viewing Mesos and framework logs.
     * [Using ZooKeeper](Using-ZooKeeper.textile) for master fault-tolerance.
-    * [Using Linux Containers](Using-Linux-Containers.textile) for resouce isolation on slaves.
+    * [Using Linux Containers](Using-Linux-Containers.textile) for resource isolation on slaves.
 * Guide to running existing frameworks:
     * [Running Spark on Mesos](https://github.com/mesos/spark/wiki)
     * [Using the Mesos Submit tool](Using-the-mesos-submit-tool.md)
